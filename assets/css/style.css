@@ -1,0 +1,10 @@
+body {
+    background: url("../imgs/vxv-img.png") center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 80vh;
+    font-family: 'Rubik', sans-serif;
+    color: #0c0f1e;
+  } 
