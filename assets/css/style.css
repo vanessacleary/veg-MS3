@@ -10,5 +10,12 @@ body {
 
 .main-section {
   flex: 1 0 auto;
+  margin-top: 5rem;
 }
 
+nav {
+	background-color: rgb(143, 202, 143);
+}
+
+footer {
+	background-color: rgb(143, 202, 143);
